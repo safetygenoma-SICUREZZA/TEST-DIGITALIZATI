@@ -54,7 +54,7 @@ function generateUserId(baseEmail) {
 }
 
 // ✅ URL del tuo script Google DEFINITIVO
-const GAS_URL = "https://script.google.com/macros/s/AKfycbxD4f47b4qNzcyijb1KH9-LXAFlMkexmK_ArJe3Ux9nVysf_XicuYGHY9qgRJY75Y9YjQ/exec";
+const GAS_URL = "https://script.google.com/macros/s/AKfycbwvkZJQn_c2pldakTrjaHnJKGcpybpSOfqUgMWFEvhBj48flbLa0QwttoHZWtr7lenFew/exec";
 window.GASURL = GAS_URL;
 
 // <-- PUBBLICA SU window per l'uso anche nei JS inline
@@ -451,6 +451,7 @@ window.logout = logout; // <--- Esporta la funzione di logout
     atomicTotal
   };
 })();
+
 
 
 
